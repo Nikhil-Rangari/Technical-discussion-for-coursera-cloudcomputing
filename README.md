@@ -12,3 +12,7 @@ This is a good example of [my code](https://gist.github.com/Nikhil-Rangari/c4bce
 
 ### Colab Example
 This is the [notebook](https://colab.research.google.com/github/Nikhil-Rangari/Technical-discussion-for-coursera-cloudcomputing/blob/main/Untitled1.ipynb)
+
+
+### Image
+https://github.com/Nikhil-Rangari/Technical-discussion-for-coursera-cloudcomputing/issues/1
