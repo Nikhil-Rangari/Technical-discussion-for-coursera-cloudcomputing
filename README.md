@@ -15,4 +15,4 @@ This is the [notebook](https://colab.research.google.com/github/Nikhil-Rangari/T
 
 
 ### Image
-[image](https://github.com/Nikhil-Rangari/Technical-discussion-for-coursera-cloudcomputing/issues/1)
+![image](https://github.com/Nikhil-Rangari/Technical-discussion-for-coursera-cloudcomputing/issues/1)
